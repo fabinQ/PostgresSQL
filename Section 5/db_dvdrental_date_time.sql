@@ -1,4 +1,4 @@
-select now()::time, current_timestamp, current_date, current_time
+--select now()::time, current_timestamp, current_date, current_time
 
 select 
 	rental_date
