@@ -9,4 +9,5 @@ insert into books
 values
 (2,'Tales of Terror and Madness','Edgar Allan Poe', 188, 2001, 45.33,'y');
 
-select * from books
+select * from books;
+--DROP TABLE books;
